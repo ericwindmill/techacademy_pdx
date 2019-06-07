@@ -4,14 +4,17 @@ eric@ericwindmill.com
 
 502-608-2287
 
-Github <!-- These should be links -->
+> NOTE: thes should be links
+
+Github 
+
 LinkedIn
+
 Portfolio 
 
 # Experience
-<!--
-I worked here for 2 years, so you better believe I milked it to make my resume look as good as possible.
--->
+
+> NOTE:  I worked here for 2 years, so you better believe I milked it to make my  resume look as good as possible.
 ## AppTree Software (Software Engineer, UI designer, ongoing)
 #### Core Platform Clients - Mobile and Web
 - First team member working full-time to rebuild mobile clients in Flutter
@@ -25,10 +28,8 @@ I worked here for 2 years, so you better believe I milked it to make my resume l
 - Writing a build-system-style tool that enterprise clients use to integrate their data with external plat- forms. YAML Parser, engine and build-system steps written in Go
 - Writing developer SDKs for Go-lang, C# and Node.js
 
-<!--
-This one is particularly interesting, because it was only about 
-five hours worth of work. But, it looks good on the resume. And I have no clue how many students use it to scan into the buiding.
--->
+> NOTE:  This one is particularly interesting, because it was only about five hours worth of work. But, it looks good on the resume. And I have no clue how many students use it to scan into the buiding.
+
 #### RFID Scanning App - Flutter App w/ Native plugins
 - Built a mobile app that’s used on Michigan State’s campus to scan it's thousands of students into buildings.
 
